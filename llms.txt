@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/fadi-shwaya-are-you-free-a-little-bit/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Fadi Shwaya – Are you free a little bit?](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
