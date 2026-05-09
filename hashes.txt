@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fadi Shwaya – Are you free a little bit?
+
+This log tracks the cryptographic history and versioning for the song **Fadi Shwaya – Are you free a little bit?** (fadi-shwaya-are-you-free-a-little-bit).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:05:08.223765 | `v1` | `e06a549093791cf0b5e7c99371cc1896f6e94456ef7b85026673b911ce7a49b6` | `8e134da3294efa9436a2a888d043677724c46f20eb582b7f2422c23c68c329d2` | `2026-05-09_fadi-shwaya-are-you-free-a-little-bit-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
